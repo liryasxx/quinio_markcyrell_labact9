@@ -14,7 +14,7 @@ let items = [
         location: "School Library",
         status: "Lost",
         reportedBy: "Juan Dela Cruz"
-    },
+    },  
     {
         id: 2,
         itemName: "Blue Water Bottle",
