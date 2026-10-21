@@ -35,7 +35,7 @@ The server runs on `http://localhost:3000` by default.
   "category": "Personal Item",
   "location": "School Library",
   "status": "Lost",
-  "reportedBy": "Juan Dela Cruz"
+  "reportedBy": "Mark Cyrell Quinio"
 }
 ```
 
